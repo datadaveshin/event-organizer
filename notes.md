@@ -31,5 +31,11 @@ Combined these because we can test at step 4 with a simple console.log statement
   const eventObj1 = new Event("KLOS Golden Gala", "An Evening with hollywood vampires");
   console.log("eventObj1:", eventObj1);
   ```
-  - Test by opening developer tools and checking contents of eventObj1
-  - Commit
+- Test by opening developer tools and checking contents of eventObj1
+- Commit
+
+# Step 5
+- Add additional objects according to instructions
+- Add some tests
+- Check in console in the developer tools
+- Commit
