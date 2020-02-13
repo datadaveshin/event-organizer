@@ -42,8 +42,28 @@ Combined these because we can test at step 4 with a simple console.log statement
 - Commit
 
 ## Steps 6-8
-- Again combined these as we can test at step 7
+- Combined steps as we can test at step 7
 - Step 6: Added array instance
 - Step 7: Created the event objects and tested
 *note* here I deviated by only pushing `eventObj2` and `eventObj3` in the second step.
 - Commit
+
+## Step 9-10
+- Combined steps as step 10 is a test
+- Test if jQuery is loaded in the developer tools console with following code:
+```
+if (typeof $ == 'undefined') {
+  console.log("jQuery is NOT loaded");
+} else {
+  console.log("jQuery IS loaded");
+}
+```
+Modified from [css-tricks](https://css-tricks.com/snippets/jquery/check-if-jquery-is-loaded/)
+- Step 9
+  - Remove previous console.log statements for clarity
+  - Add jQuery code
+- Step 10
+  - Reload page and check output
+  - Update jQuery code to use arrow function, as using "const", "let"
+  - Reload page and check output
+- Commit 
