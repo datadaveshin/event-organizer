@@ -66,4 +66,4 @@ Modified from [css-tricks](https://css-tricks.com/snippets/jquery/check-if-jquer
   - Reload page and check output
   - Update jQuery code to use arrow function, as using "const", "let"
   - Reload page and check output
-- Commit 
+- Commit
