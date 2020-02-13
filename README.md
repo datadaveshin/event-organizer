@@ -67,3 +67,14 @@ Modified from [css-tricks](https://css-tricks.com/snippets/jquery/check-if-jquer
   - Update jQuery code to use arrow function, as using "const", "let"
   - Reload page and check output
 - Commit
+
+## Github
+- Start github repo and push commits
+## Steps 11-13
+- Checkout new `ticket-type` branch
+- Step 11: Add the `TicketType` class
+- Step 12: Add addAvailableTickets method to Event class
+- Step 13:
+  - User the addAvailableTickets method
+  - Add console.log statements to test
+- commit, push, merge  
