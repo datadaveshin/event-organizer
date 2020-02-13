@@ -8,6 +8,7 @@
 ```bash
 mkdir event-organizer
 cd event-organizer
+git init
 touch index.html
 ```
 - Fill in content into index.html
@@ -34,8 +35,15 @@ Combined these because we can test at step 4 with a simple console.log statement
 - Test by opening developer tools and checking contents of eventObj1
 - Commit
 
-# Step 5
+## Step 5
 - Add additional objects according to instructions
 - Add some tests
 - Check in console in the developer tools
+- Commit
+
+## Steps 6-8
+- Again combined these as we can test at step 7
+- Step 6: Added array instance
+- Step 7: Created the event objects and tested
+*note* here I deviated by only pushing `eventObj2` and `eventObj3` in the second step.
 - Commit
